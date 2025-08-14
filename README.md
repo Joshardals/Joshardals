@@ -7,7 +7,5 @@ Full-stack developer exploring the web with **Next.js**, **React**, **Node.js**,
 
 ## What's Here:
 - Personal projects
-- Learning resources
-- Open-source contributions
 
 Feel free to explore, fork, and connect! Let's create something awesome!
